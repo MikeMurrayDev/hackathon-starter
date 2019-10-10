@@ -28,4 +28,3 @@ This will ensure that your private credentials do not get committed to git and w
 You will also need to modify the `server/server.js` file to make your call to your api url and return back your data to your front end.
 
 An example of a request to a mock server is shown in the file. You will replace this with the API you want data from.
-
